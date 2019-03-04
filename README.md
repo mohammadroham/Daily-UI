@@ -1,5 +1,4 @@
 # Daily-UI
-# Daily-Ui
 Daily Ui Challenge (100)
 
 **Info :**
